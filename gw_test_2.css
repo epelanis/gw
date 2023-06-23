@@ -1,10 +1,17 @@
 .isign-documentlist-block {
     height: 900px;
 }
+
 .document-list-block iframe {
     height: 775px;
 }
+
 #pdf-frame {
     height: 100%;
-    min-height: 350px;
+    min-height: 500px;
+}
+
+.isign-details-block,
+.isign-signers-block {
+  display: none;
 }
