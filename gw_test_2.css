@@ -4,10 +4,5 @@
 
 #pdf-frame {
     height: 90%;
-    min-height: 500px;
-}
-
-.isign-details-block,
-.isign-signers-block {
-  display: none;
+    min-height: 350px;
 }
