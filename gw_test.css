@@ -1,3 +1,7 @@
+.isign-details-block {
+    display: none;
+}
+
 #pdf-frame {
     height: 1200px;
 }
