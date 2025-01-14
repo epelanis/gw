@@ -1,3 +1,8 @@
 #pdf-frame {
     height: 1200px;
 }
+
+#check-code {
+    height: 200px;
+    width: 200px;
+}
