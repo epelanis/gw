@@ -20,3 +20,11 @@
     background-color: blue;
     height: 1200px;
 }
+
+body #download.btn-success, body .batch-signing__download, body .batch-signing__download a, body #document-download #download {
+  display: none !important
+}
+
+.sequence-result-listing-container .container.preview-document-container.batch-signing-container, .sequence-result-listing-container .document-list-block.isign-documentlist-block, .sequence-result-listing-container .isign-download-block, .sequence-result-listing-container .sequence-result-listing {
+  display: none
+}
