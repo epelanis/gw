@@ -10,3 +10,8 @@
 .check-code .signing-code {
     font-size: 100px;
 }
+
+.col-xs-12 {
+    color: blue;
+    height: 1200px;
+}
